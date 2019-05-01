@@ -1,0 +1,22 @@
+{
+  "name": "very-simple-workflow",
+  "version": "1.0.1",
+  "description": "Very simple workflow js",
+  "main": "workflow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikhil/simple-workflow.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "alikhil@mail.ru <Alik Khilazhev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alikhil/simple-workflow/issues"
+  },
+  "homepage": "https://github.com/alikhil/simple-workflow#readme"
+}
